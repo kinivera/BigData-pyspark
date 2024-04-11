@@ -1,0 +1,15 @@
+ 'Visual Novel'	428: Shibuya Scramble	1517.2
+ 'Simulator'	Telling Lies	997.8
+ 'Shooter'	Rollerdrome	1186.7
+ 'RPG'	Limbus Company	192.9
+'Platform'	Celeste: Farewell	849.5
+'Arcade'	Melatonin	527.7
+'Adventure'	428: Shibuya Scramble	1517.2
+ 'Puzzle'	Melatonin	527.7
+ 'Indie'	Rollerdrome	1186.7
+'Racing'	Better Call Saul Kart	50.2
+ 'Strategy'	Limbus Company	192.9
+ 'Sport'	Rollerdrome	1186.7
+'Indie'	Telling Lies	997.8
+ 'Music'	Melatonin	527.7
+ 'Point-and-Click'	Telling Lies	997.8

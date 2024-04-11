@@ -1,0 +1,14 @@
+ 'Private Division'	Rollerdrome	1186.7
+'Chunsoft'	428: Shibuya Scramble	1517.2
+'Roll7'	Rollerdrome	1186.7
+'Furious Bee Limited'	Telling Lies	997.8
+'Extremely OK Games'	Celeste: Farewell	849.5
+ 'Konami'	Silent Hill 2: Restless Dreams	689.5
+'Team Silent'	Silent Hill 2: Restless Dreams	689.5
+'FromSoftware'	Elden Ring: Shadow of the Erdtree	169.8
+'Half Asleep'	Melatonin	527.7
+ 'Sega'	428: Shibuya Scramble	1517.2
+ 'Bandai Namco Entertainment'	Elden Ring: Shadow of the Erdtree	169.8
+'Project Moon'	Limbus Company	192.9
+ 'Annapurna Interactive'	Telling Lies	997.8
+'Big Trash Games'	Better Call Saul Kart	50.2
